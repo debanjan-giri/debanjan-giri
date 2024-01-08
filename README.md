@@ -4,11 +4,6 @@ Recent graduate with a passion for coding and a hunger for learning. I'm explori
 ## 💼 What I'm Excited About
 - 🌱 Learning and growing as a software developer.
 - 💻 Building meaningful projects that solve real-world problems.
-- 🚀 Exploring different technologies and finding my niche.
-
-## 🚀 My Tech Interests
-- 🔧 Building awesome web applications that streamline user experiences.
-- 🚀 Constantly learning and experimenting with the latest back-end technologies.
 
 ## 🚀 My Tech Stack
 - 💻 JavaScript, Java
@@ -16,7 +11,7 @@ Recent graduate with a passion for coding and a hunger for learning. I'm explori
 
 ## 🌱 What I'm Currently Learning
 - 📊 Exploring data structures and algorithms.
-- 🌐 Building my first full-stack web application.
+- 🌐 Building my full-stack web application.
 - 🧿 Exploring Microservices Architecture
 
 ## 🤝 Let's Connect

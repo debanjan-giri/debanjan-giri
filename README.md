@@ -6,12 +6,12 @@ Recent graduate with a passion for coding and a hunger for learning. I'm explori
 - 💻 Building meaningful projects that solve real-world problems.
 
 ## 🚀 My Tech Stack
-- 🛠️ Express js, Spring boot, react native, MERN stack
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
--  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
--  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![MERN Stack](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌱 What I'm Currently Learning
 - 📊 Exploring data structures and algorithms.

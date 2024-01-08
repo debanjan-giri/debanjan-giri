@@ -1,25 +1,26 @@
 # 👋 Hello World! Debanjan Giri
+Recent graduate with a passion for coding and a hunger for learning. I'm exploring the vast world of software development, eager to contribute and make a positive impact.
 
-Passionate about coding
+## 💼 What I'm Excited About
+- 🌱 Learning and growing as a software developer.
+- 💻 Building meaningful projects that solve real-world problems.
+- 🚀 Exploring different technologies and finding my niche.
 
-## 💼 What I Do
-
+## 🚀 My Tech Interests
 - 🔧 Building awesome web applications that streamline user experiences.
 - 🚀 Constantly learning and experimenting with the latest back-end technologies.
-- 🌐 Contributing to the open-source community to give back.
 
 ## 🚀 My Tech Stack
-
 - 💻 JavaScript, Java
-- 🛠️ Node.js, Spring boot , react native
+- 🛠️ Express js, Spring boot, react native, MERN stack
 
 ## 🌱 What I'm Currently Learning
-
-- Exploring Microservices Architecture
-- Improving my skills in React Native.
+- 📊 Exploring data structures and algorithms.
+- 🌐 Building my first full-stack web application.
+- 🧿 Exploring Microservices Architecture
 
 ## 🤝 Let's Connect
-
+- ✨ Open to collaborations and mentorship opportunities.
 - 📫 Drop me a message: devposto@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/debanjanGiri)
 

@@ -1,21 +1,21 @@
 # 👋 Hello World! Debanjan Giri
 
-Passionate about coding, creating, and continuous learning
+Passionate about coding
 
 ## 💼 What I Do
 
 - 🔧 Building awesome web applications that streamline user experiences.
-- 🚀 Constantly learning and experimenting with the latest front-end and back-end technologies.
+- 🚀 Constantly learning and experimenting with the latest back-end technologies.
 - 🌐 Contributing to the open-source community to give back.
 
 ## 🚀 My Tech Stack
 
 - 💻 JavaScript, Java
-- 🛠️ React, Node.js, Spring
+- 🛠️ Node.js, Spring boot , react native
 
 ## 🌱 What I'm Currently Learning
 
-- Exploring Spring boot Microservices Architecture
+- Exploring Microservices Architecture
 - Improving my skills in React Native.
 
 ## 🤝 Let's Connect

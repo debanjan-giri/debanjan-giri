@@ -1,5 +1,3 @@
-### Hi there 👋
-**debanjan-giri/debanjan-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hello World! Debanjan Giri
 
 Passionate about coding, creating, and continuous learning

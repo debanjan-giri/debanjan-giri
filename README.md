@@ -10,7 +10,6 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="100px" height="100px"></a>
 <a href="https://www.webrtc.org/" title="WebRTC"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="100px" height="100px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="100px" height="100px"></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="100px" height="100px"></a>
 
 
 ## 💼 What I'm Excited About

@@ -12,7 +12,7 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="61px" height="61px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="61px" height="61px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="61px" height="61px"></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a><a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="61px" height="61px"></a>
 
 
 ## 💼 What I'm Excited About
@@ -41,13 +41,12 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 
 - 📊 **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-- 🧪 **Testing:**
-  [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
 - 🔐 **Authentication:**
   [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)](https://jwt.io/)
 
+- 🧪 **Testing:**
+  [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
 ## 🌱 What I'm Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.

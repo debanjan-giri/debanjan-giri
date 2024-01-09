@@ -45,7 +45,7 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 - 🧪 **Testing:**
   [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
-- ð **Authentication:**
+- 🔐 **Authentication:**
   [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)](https://jwt.io/)
 
 

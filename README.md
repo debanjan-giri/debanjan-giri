@@ -2,17 +2,17 @@
 
 As a recent graduate, I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
 
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="70px" height="70px"></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" width="70px" height="70px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="70px" height="70px"></a>
-<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring Boot" width="70px" height="70px"></a>
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="70px" height="70px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="70px" height="70px"></a>
-<a href="https://www.webrtc.org/" title="WebRTC"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="70px" height="70px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="70px" height="70px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="70px" height="70px"></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="70px" height="70px"></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="70px" height="70px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="61px" height="61px"></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" width="61px" height="61px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="61px" height="61px"></a>
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring Boot" width="61px" height="61px"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="61px" height="61px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="61px" height="61px"></a>
+<a href="https://www.webrtc.org/" title="WebRTC"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="61px" height="61px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="61px" height="61px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="61px" height="61px"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="61px" height="61px"></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a>
 
 
 ## 💼 What I'm Excited About

@@ -12,7 +12,7 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="61px" height="61px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="61px" height="61px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="61px" height="61px"></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a><a href="https://jwt.io/" title="JWT"><img src="https://simpleicons.org/icons/jsonwebtokens.svg" alt="JWT" width="70px" height="70px"></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a><a href="https://jwt.io/" title="JWT"><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JWT" width="70px" height="70px"></a>
 
 
 ## 💼 What I'm Excited About

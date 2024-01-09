@@ -2,6 +2,17 @@
 
 As a recent graduate, I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
 
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="100px" height="100px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="100px" height="100px"></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" width="100px" height="100px"></a>
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring Boot" width="100px" height="100px"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="100px" height="100px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="100px" height="100px"></a>
+<a href="https://www.webrtc.org/" title="WebRTC"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="100px" height="100px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="100px" height="100px"></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="100px" height="100px"></a>
+
+
 ## 💼 What I'm Excited About
 - 🌱 **Learning and Growth:** Actively seeking opportunities to expand my skill set and evolve as a software developer.
 - 💻 **Project Development:** Passionate about building projects that contribute to real-world problem-solving.
@@ -11,22 +22,27 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🛠️ **Frameworks/Tools:** 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
+  
 - 🛢️ **Databases:**
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🌐 **Web Technologies:** 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest-api&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 - 📊 **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  
+- 🧪 **Testing:**
+  [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+  [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
+
+- 🛠️ **Frameworks/Tools:** 
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🌱 What I'm Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.

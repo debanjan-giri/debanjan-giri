@@ -2,6 +2,13 @@
 
 As a recent graduate, I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
 
+
+## 💼 What I'm Excited About
+- 🌱 **Learning and Growth:** Actively seeking opportunities to expand my skill set and evolve as a software developer.
+- 💻 **Project Development:** Passionate about building projects that contribute to real-world problem-solving.
+
+## 🚀 My Tech Stack
+
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="61px" height="61px"></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" width="61px" height="61px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="61px" height="61px"></a>
@@ -13,13 +20,6 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="61px" height="61px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="61px" height="61px"></a>
 <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a><a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="61px" height="61px"></a>
-
-
-## 💼 What I'm Excited About
-- 🌱 **Learning and Growth:** Actively seeking opportunities to expand my skill set and evolve as a software developer.
-- 💻 **Project Development:** Passionate about building projects that contribute to real-world problem-solving.
-
-## 🚀 My Tech Stack
 
 - 🛠️ **Frameworks/Tools:** 
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)

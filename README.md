@@ -19,22 +19,22 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
     <img src="https://skillicons.dev/icons?i=react,html,css" />
   </a>
   
-- 🧑‍💻 **backend:**
+- 🧑‍💻**backend:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,express,graphql" />
   </a>
 
-- 🔋 **Databases:**
+- 🔋**Databases:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>
   
-- 🐋 **devops:**
+- 🐋**devops:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
   </a>
   
-- 🤖 **others:**
+- 🤖**others:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bun" />
   </a>

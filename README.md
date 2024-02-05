@@ -14,7 +14,7 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
   <img src="https://skillicons.dev/icons?i=java,typescript,javascript" />
 </a>
 
-- 🔋**Databases:**
+- 🧿**Databases:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>

@@ -11,10 +11,10 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 
 - 💎**Language:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,typescript" />
 </a>
 
-- 🍎**Database:**
+- 🌷**Database:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>

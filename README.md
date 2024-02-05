@@ -26,13 +26,13 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
   
 - 🐋**devops:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git" />
   </a>
 
   
 - 🤖**others:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bun,postman,react,graphql" />
+    <img src="https://skillicons.dev/icons?i=bun,postman,react,graphql,vscode,idea" />
   </a>
 
 ## 🌱 What I'm Currently Learning

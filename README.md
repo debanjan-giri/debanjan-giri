@@ -9,10 +9,6 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 
 ## 🚀 My Tech Stack
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,typescript,bun,expressjs,mysql,mongodb,redis,graphql,postman,docker,kubernetes,jenkins,aws,react" />
-  </a>
-
 - 💎**Language:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,typescript,javascript" />

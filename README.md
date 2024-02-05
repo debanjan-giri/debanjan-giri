@@ -32,7 +32,7 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
   
 - 🤖**Others:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,postman,react,graphql,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=bun,postman,graphql,react,html,css" />
   </a>
 
 ## 🌱 What I'm Currently Learning

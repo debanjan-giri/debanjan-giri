@@ -9,17 +9,9 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 
 ## 🚀 My Tech Stack
 
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="61px" height="61px"></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" width="61px" height="61px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="61px" height="61px"></a>
-<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring Boot" width="61px" height="61px"></a>
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="61px" height="61px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="61px" height="61px"></a>
-<a href="https://www.webrtc.org/" title="WebRTC"><img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" alt="WebRTC" width="61px" height="61px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="61px" height="61px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="61px" height="61px"></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="61px" height="61px"></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="VSCode" width="61px" height="61px"></a><a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="61px" height="61px"></a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,bun,expressjs,postgresql,mongodb,redis,graphql,postman,docker,kubernetes,jenkins,aws,react" />
+  </a>
 
 - 🛠️ **Frameworks/Tools:** 
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)

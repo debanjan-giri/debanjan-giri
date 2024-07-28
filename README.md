@@ -28,5 +28,5 @@
 
 ## 🤝 Let's Connect
 - ✨ **Open to Opportunities:** Eager to contribute and learn in a professional setting.
-- 📫 **Reach Out:** Feel free to drop me a message at devposto@gmail.com.
+- 📫 **Reach Out:** Feel free to drop me a message at debanjan.py@gmail.com
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/debanjanGiri).

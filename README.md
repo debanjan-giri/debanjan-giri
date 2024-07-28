@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite,figma" />
 </a>
 
-## 🌱 What I'm Currently Learning
+## 🌱 Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.
 - 🌐 **Full-Stack Development:** Actively working on building my full-stack web application.
 

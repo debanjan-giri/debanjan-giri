@@ -1,14 +1,7 @@
-# 👋 Hello World! I'm Debanjan Giri
+## 👋 Hello World! I'm Debanjan Giri 
+- I am Full stack developer
 
-I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
-
-
-## 💼 What I'm Excited About
-- 🌱 **Learning and Growth:** Actively seeking opportunities to expand my skill set and evolve as a software developer.
-- 💻 **Project Development:** Passionate about building projects that contribute to real-world problem-solving.
-
-## 🚀 My Tech Stack
-
+## ⚗️Language and Tools
 - **Language:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,javascript" />
@@ -26,9 +19,8 @@ I am deeply passionate about coding and committed to continuous learning. Eager 
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite,figma" />
 </a>
-
 
 ## 🌱 What I'm Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.
@@ -38,5 +30,3 @@ I am deeply passionate about coding and committed to continuous learning. Eager 
 - ✨ **Open to Opportunities:** Eager to contribute and learn in a professional setting.
 - 📫 **Reach Out:** Feel free to drop me a message at devposto@gmail.com.
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/debanjanGiri).
-
-I am actively seeking opportunities to apply my skills and contribute to innovative projects. Your guidance and mentorship are highly valued. Let's connect and explore the possibilities together. Excited about the journey of turning my passion for coding into impactful solutions! ☕🚀

@@ -16,7 +16,7 @@ I am deeply passionate about coding and committed to continuous learning. Eager 
 
 - **Database:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>
 
   - **Backend:**

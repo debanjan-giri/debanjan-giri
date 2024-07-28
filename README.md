@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Debanjan Giri
 
-As a recent graduate, I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
+I am deeply passionate about coding and committed to continuous learning. Eager to embark on a career in software development, I am enthusiastic about making a positive impact through meaningful projects.
 
 
 ## 💼 What I'm Excited About
@@ -9,36 +9,30 @@ As a recent graduate, I am deeply passionate about coding and committed to conti
 
 ## 🚀 My Tech Stack
 
-- 💎**Language:**
+- **Language:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </a>
 
-- 🌷**Database:**
+- **Database:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  </a>
-  
-- 🥝**Backend:**
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,express,hibernate,prisma" />
-  </a>
-  
-- ☁️**Devops:**
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis," />
   </a>
 
-  
-- 🤖**Others:**
+  - **Backend:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,postman,graphql,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" />
   </a>
+
+- **Frontend:**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite" />
+</a>
+
 
 ## 🌱 What I'm Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.
 - 🌐 **Full-Stack Development:** Actively working on building my full-stack web application.
-- 🧿 **Microservices Architecture:** Exploring modern architectural patterns to stay up-to-date.
 
 ## 🤝 Let's Connect
 - ✨ **Open to Opportunities:** Eager to contribute and learn in a professional setting.

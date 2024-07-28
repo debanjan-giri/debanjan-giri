@@ -1,4 +1,4 @@
-## 👋 Hello World! I'm Debanjan Giri 
+## 👋 I'm Debanjan Giri 
 - I am Full stack developer
 
 ## ⚗️Language and Tools

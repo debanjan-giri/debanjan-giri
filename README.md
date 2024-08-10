@@ -1,5 +1,5 @@
 ## 👋 I'm Debanjan Giri 
-- I am Full stack developer
+- Full stack developer
 
 ## ⚗️ Language and Tools
 - **Language:**

@@ -1,7 +1,6 @@
 ## 👋 I'm Debanjan Giri 
-- Full stack developer
+#### my tech stack 💎
 
-## ⚗️ Language and Tools
 - **Language:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,javascript" />

@@ -18,7 +18,7 @@
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,vite" />
 </a>
 
 ## 🌱 Currently Learning

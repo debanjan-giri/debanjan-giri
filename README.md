@@ -3,7 +3,7 @@
 
 - **Language:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,typescript" />
 </a>
 
 - **Database:**

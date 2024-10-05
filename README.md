@@ -8,17 +8,17 @@
 
 - **Database:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" />
   </a>
 
   - **Backend:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,aws" />
   </a>
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,tailwindcss" />
 </a>
 
 ## 🌱 Currently Learning

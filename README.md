@@ -13,7 +13,7 @@
 
   - **Backend:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,aws,fastify />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,aws />
   </a>
 
 - **Frontend:**

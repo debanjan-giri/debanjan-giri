@@ -3,22 +3,17 @@
 
 - **Language:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,js" />
 </a>
-
-- **Database:**
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  </a>
-
-  - **Backend:**
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" />
-  </a>
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,nextjs,tailwind,webpack,babel,jest,vite" />
+</a>
+
+- **others:**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,gcp,npm,pnpm,git" />
 </a>
 
 ## 🌱 Currently Learning

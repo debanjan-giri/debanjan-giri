@@ -13,7 +13,7 @@
 
 - **others:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,gcp,npm,pnpm,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,npm,pnpm,git,cloudflare,ai" />
 </a>
 
 ## 🌱 Currently Learning

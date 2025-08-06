@@ -8,12 +8,12 @@
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,nextjs,tailwind,webpack,babel,jest,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,nextjs,tailwind,webpack,babel,jest,vite,npm,figma" />
 </a>
 
-- **others:**
+- **Backend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,npm,pnpm,git,cloudflare,ai" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,cloudflare,ai,tensorflow" />
 </a>
 
 ## 🌱 Currently Learning

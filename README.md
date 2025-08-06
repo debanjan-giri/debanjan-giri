@@ -18,7 +18,7 @@
 
 ## 🌱 Currently Learning
 - 📊 **Data Structures and Algorithms:** Exploring fundamental concepts to strengthen problem-solving skills.
-- 🌐 **Full-Stack Development:** Actively working on building my full-stack web application.
+- 🌐 **Full-Stack Development:** Actively working on building my React web , React Native , Node js.
 
 ## 🤝 Let's Connect
 - ✨ **Open to Opportunities:** Eager to contribute and learn in a professional setting.

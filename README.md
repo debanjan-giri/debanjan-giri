@@ -13,7 +13,7 @@
 
 - **Backend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,cloudflare,tensorflow,git,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,graphql,cloudflare,ai,git,jest" />
 </a>
 
 ## 🌱 Currently Learning

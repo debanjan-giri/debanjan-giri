@@ -8,7 +8,7 @@
 
 - **Frontend:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,nextjs,tailwind,webpack,babel,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,materialui,nextjs,tailwind,webpack,vite,figma" />
 </a>
 
 - **Backend:**
